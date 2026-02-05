@@ -21,7 +21,7 @@
 
 ## 🧩 About Me
 
-- 🔥 Frontend Developer with 4+ years of commercial experience  
+- 🔥 Frontend Developer with 5+ years of commercial experience  
 - ⚙️ Deep knowledge of **React.js, Next.js, TypeScript, Tailwind**  
 - 🧠 Engineering mind: architecture, optimization, large scalable systems  
 - 🛰️ Creator of **LP2LN** — a fully custom decentralized P2P protocol  
