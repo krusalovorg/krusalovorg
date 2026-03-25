@@ -1,9 +1,10 @@
 <!-- HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-  
-  # 🖤 KRUSALOV.ORG  
-  ### Frontend Developer • P2P Network Architect • Indie Maker
+
+  # ⚡ KRUSALOV
+  ### Founder-minded Engineer • Distributed Systems • Product Builder
+
   <br/>
 
   <a href="https://t.me/krusalovorg">
@@ -14,20 +15,65 @@
   </a>
 
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=krusalovorg&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=krusalovorg&style=flat-square&color=blue"/>
 </div>
 
 ---
 
-## 🧩 About Me
+## 🚀 About
 
-- 🔥 Frontend Developer with 5+ years of commercial experience  
-- ⚙️ Deep knowledge of **React.js, Next.js, TypeScript, Tailwind**  
-- 🧠 Engineering mind: architecture, optimization, large scalable systems  
-- 🛰️ Creator of **LP2LN** — a fully custom decentralized P2P protocol  
-- 🎯 Built multiple full-stack products from scratch (JS/TS → Python/Go → Rust)  
-- 🧪 Passionate about experiments, performance, system design and real products  
-- 🚀 Thousands of hours of development experience across many projects  
+I’m a **founder-minded engineer** focused on building real systems, not just writing code.
+
+- Started coding at **13**  
+- Built my first **full-scale product early** — a secure transaction platform  
+- 5+ years of hands-on experience across frontend, backend and low-level systems  
+
+I think in terms of:
+> **systems → architecture → product → scale**
+
+---
+
+## 🧠 What Makes Me Different
+
+- 🛰️ I build **complex systems from scratch** (not just features)
+- ⚙️ Comfortable across full stack **(JS → Go/Python → Rust)**
+- 🧠 Strong focus on **distributed systems & decentralization**
+- 🚀 Ship fast, then iterate toward production-grade architecture  
+- 🔥 High ownership: from idea → architecture → implementation  
+
+---
+
+## 🧩 Key Projects
+
+### 🛰️ LP2LN — Decentralized Network (Core Project)
+A fully custom P2P protocol designed as an alternative infrastructure layer:
+
+- NAT traversal (STUN / TURN / Signal)  
+- Validators & distributed storage  
+- WASM smart contracts  
+- CDN-like content delivery  
+- Gateway & HTTP access layer  
+
+👉 Goal: **build censorship-resistant, scalable network infrastructure**
+
+---
+
+### 🔐 Secure Deal Platform (Age 13)
+Full-featured system for **safe transactions between users**:
+
+- escrow-like logic  
+- backend + frontend architecture  
+- real product thinking from early stage  
+
+👉 This was the point where I started building **systems, not just code**
+
+---
+
+### 🎧 AI DJ Agent System
+Agent-based system that:
+- builds tracklists  
+- analyzes music structure  
+- automates DJ workflows  
 
 ---
 
@@ -35,47 +81,46 @@
 
 <div align="center">
 
-<!-- MAIN -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,nodejs,express" /><br/>
-<img src="https://skillicons.dev/icons?i=python,flask,go,rust,mysql,postgres,mongodb,firebase,git,linux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs" /><br/>
+<img src="https://skillicons.dev/icons?i=python,go,rust,postgres,mongodb,linux,git" />
 
 </div>
 
 ---
 
-## ⚡ Github Stats
+## 📈 Strengths
 
-<div align="center">
-  
-  <img 
-    src="http://github-readme-streak-stats.herokuapp.com?user=krusalovorg&theme=dark&background=000000"
-    height="170"
-  />
-
-</div>
+- 🧠 System thinking (architecture-first mindset)  
+- ⚡ Fast execution (idea → MVP → iteration)  
+- 🔧 Wide technical range (frontend → backend → infra)  
+- 🚀 Product mindset (focus on value & scalability)  
+- 🔥 High intensity & long-term consistency  
 
 ---
 
-## 🧨 Featured Work
+## 🎯 Vision
 
-- 🔗 **LP2LN — Light Protocol for Layered Peer Network**  
-  Custom-built decentralized peer-to-peer network with NAT traversal, validators, WASM contracts, CDN logic, gateways and full system architecture.
+I aim to build:
+- decentralized infrastructure  
+- scalable internet systems  
+- global-level tech products  
 
-- 🛒 **Local Marketplace Platform**  
-  Fullstack marketplace for real city logistics.  
-  Stack: **Next.js + Go + PostgreSQL + microservices + analytics**.
-
-- 🎧 **DJ Agent System**  
-  AI agent that builds tracklists, analyzes compositions and automates playlist creation.
-
-- 📦 **ManagerWarehouse (WinAPI + Direct2D)**  
-  Native Windows app with custom rendering, layout engine and full business logic.
+Long-term goal:
+> **launch and scale my own tech company**
 
 ---
 
-## 💬 Connect  
+## 💼 Open To
 
-If you want to collaborate, hire me, or discuss p2p architectures — write anytime.
+- Early-stage startups (core team / founding engineer)  
+- Deep-tech & distributed systems projects  
+- Building MVPs with real scaling potential  
+
+---
+
+## 💬 Contact
+
+If you're building something ambitious — let's connect.
 
 <div align="center">
   <a href="https://t.me/krusalovorg">
