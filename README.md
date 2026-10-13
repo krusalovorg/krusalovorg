@@ -1,132 +1,70 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-
-  # ⚡ KRUSALOV
-  ### Founder-minded Engineer • Distributed Systems • Product Builder
-
-  <br/>
-
-  <a href="https://t.me/krusalovorg">
-    <img src="https://img.shields.io/badge/Telegram-1d9bf0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:krusalovorg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=krusalovorg&style=flat-square&color=blue"/>
-</div>
-
----
-
-## 🚀 About
-
-I’m a **founder-minded engineer** focused on building real systems, not just writing code.
-
-- Started coding at **13**  
-- Built my first **full-scale product early** — a secure transaction platform  
-- 5+ years of hands-on experience across frontend, backend and low-level systems  
-
-I think in terms of:
-> **systems → architecture → product → scale**
-
----
-
-## 🧠 What Makes Me Different
-
-- 🛰️ I build **complex systems from scratch** (not just features)
-- ⚙️ Comfortable across full stack **(JS → Go/Python → Rust)**
-- 🧠 Strong focus on **distributed systems & decentralization**
-- 🚀 Ship fast, then iterate toward production-grade architecture  
-- 🔥 High ownership: from idea → architecture → implementation  
-
----
-
-## 🧩 Key Projects
-
-### 🛰️ LP2LN — Decentralized Network (Core Project)
-A fully custom P2P protocol designed as an alternative infrastructure layer:
-
-- NAT traversal (STUN / TURN / Signal)  
-- Validators & distributed storage  
-- WASM smart contracts  
-- CDN-like content delivery  
-- Gateway & HTTP access layer  
-
-👉 Goal: **build censorship-resistant, scalable network infrastructure**
-
----
-
-### 🔐 Secure Deal Platform (Age 13)
-Full-featured system for **safe transactions between users**:
-
-- escrow-like logic  
-- backend + frontend architecture  
-- real product thinking from early stage  
-
-👉 This was the point where I started building **systems, not just code**
-
----
-
-### 🎧 AI DJ Agent System
-Agent-based system that:
-- builds tracklists  
-- analyzes music structure  
-- automates DJ workflows  
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs" /><br/>
-<img src="https://skillicons.dev/icons?i=python,go,rust,postgres,mongodb,linux,git" />
+# Egor Dudkin
+
+### Founder of Vekna · Software Engineer
+
+Building AI products, web applications, and peer-to-peer infrastructure.
+
+[ Vekna ](https://vekna.app) · [ Portfolio ](https://krusalov.org) · [ Telegram ](https://t.me/krusalovorg) · [ Email ](mailto:krusalovorg@gmail.com)
 
 </div>
 
 ---
 
-## 📈 Strengths
+I'm a software engineer with a frontend background and hands-on experience across backend services and infrastructure. I started programming in 2021 and build projects from the interface through to deployment.
 
-- 🧠 System thinking (architecture-first mindset)  
-- ⚡ Fast execution (idea → MVP → iteration)  
-- 🔧 Wide technical range (frontend → backend → infra)  
-- 🚀 Product mindset (focus on value & scalability)  
-- 🔥 High intensity & long-term consistency  
+My main focus is **Vekna**, a platform for AI personalities and assistants. Alongside it, I develop **LP2LN**, an open-source networking stack in Rust.
 
----
+## What I'm building
 
-## 🎯 Vision
+### [Vekna](https://vekna.app) — AI personalities & assistants
 
-I aim to build:
-- decentralized infrastructure  
-- scalable internet systems  
-- global-level tech products  
+A platform for persistent AI personalities with voice, memory, and evolving relationships, currently under active development.
 
-Long-term goal:
-> **launch and scale my own tech company**
+- **Persona Studio** — tools for creating and configuring personalities, their background, and speech style.
+- **Conversations & voice** — text chats and voice experiences with persistent context.
+- **Vekna Learn** — an AI study assistant for working with notes and knowledge.
+- **Desktop Agent** — a local executor that lets an assistant help with tasks on a connected computer, with user-controlled permissions.
 
----
+I work across product design, the React interface, backend services, model integrations, and deployment.
 
-## 💼 Open To
+[Explore Vekna →](https://vekna.app)
 
-- Early-stage startups (core team / founding engineer)  
-- Deep-tech & distributed systems projects  
-- Building MVPs with real scaling potential  
+### [LP2LN](https://github.com/krusalovorg/lp2ln) — Peer-to-peer infrastructure
 
----
+An open-source P2P networking stack in Rust. The current v2 architecture uses equal peers without a dedicated signaling server.
 
-## 💬 Contact
+- Async TCP/UDP networking with Tokio.
+- A node daemon and typed SDK for applications communicating with it.
+- Content-addressed, encrypted storage primitives.
+- Signed releases and supervised updates with health checks and rollback.
+- A React interface for network debugging.
 
-If you're building something ambitious — let's connect.
+Active development focuses on the core and node runtime; remote file synchronization is a future milestone.
 
-<div align="center">
-  <a href="https://t.me/krusalovorg">
-    <img src="https://img.shields.io/badge/Telegram-1d9bf0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:krusalovorg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+[Source code →](https://github.com/krusalovorg/lp2ln) · [Architecture & documentation →](https://deepwiki.com/krusalovorg/lp2ln)
+
+### [spoti2tg](https://github.com/krusalovorg/spoti2tg) — Music presence for Telegram
+
+A Python library that reads the current track from Windows media sessions and updates a single Telegram message as playback changes. Includes a pluggable playback source and configurable message templates.
+
+[Source code →](https://github.com/krusalovorg/spoti2tg)
+
+## Technical focus
+
+| Area | Technologies & work |
+| --- | --- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Python, Node.js, PostgreSQL |
+| **Systems** | Rust, Tokio, P2P protocols, encrypted storage |
+| **AI applications** | LLM integration, retrieval, persistent memory, speech recognition & synthesis |
+| **Infrastructure** | Linux, Docker, GitHub Actions |
+
+I enjoy work that connects a useful interface with the systems behind it: conversational products, developer tools, and networked applications.
+
+## Get in touch
+
+Open to freelance web development, MVP work, and collaboration on AI products or developer tools.
+
+[Portfolio](https://krusalov.org) · [Telegram](https://t.me/krusalovorg) · [krusalovorg@gmail.com](mailto:krusalovorg@gmail.com)
