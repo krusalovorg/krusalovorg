@@ -6,7 +6,7 @@
 
 Building AI products, web applications, and peer-to-peer infrastructure.
 
-[ Vekna ](https://vekna.app) · [ Portfolio ](https://krusalov.org) · [ Telegram ](https://t.me/krusalovorg) · [ Email ](mailto:krusalovorg@gmail.com)
+[ Vekna ](https://vekna.app) · [ Portfolio ](https://krusalov.org) · [ Telegram ](https://t.me/krusalov_labs) · [ Email ](mailto:krusalovorg@gmail.com)
 
 </div>
 
@@ -67,4 +67,4 @@ I enjoy work that connects a useful interface with the systems behind it: conver
 
 Open to freelance web development, MVP work, and collaboration on AI products or developer tools.
 
-[Portfolio](https://krusalov.org) · [Telegram](https://t.me/krusalovorg) · [krusalovorg@gmail.com](mailto:krusalovorg@gmail.com)
+[Portfolio](https://krusalov.org) · [Telegram](https://t.me/krusalov_labs) · [krusalovorg@gmail.com](mailto:krusalovorg@gmail.com)
